@@ -11,4 +11,4 @@
 - 즉 R X C grid이므로 해당 칸에서 움직일 수 있는 최대 값을 up,down,left,right 4종류 array에 저장하고, 이를 통해서 갯수를 세면된다. 
 
 
-https://rebro.kr/128  
+참고 링크 : https://rebro.kr/128  
