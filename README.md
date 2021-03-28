@@ -1,2 +1,2 @@
 # practice-algorithm
-one day one problem 
+one day one commit 
